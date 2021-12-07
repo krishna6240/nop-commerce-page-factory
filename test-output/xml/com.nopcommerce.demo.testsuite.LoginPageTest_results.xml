@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nopcom"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="31.017">
+  <properties />
+  
+  
+            <testcase name="verifyErrorMessageWithInvalidCredentialsInvalidEmailFormat" time="1.400" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="10.931" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPage" time="1.238" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentialsNoEmail" time="1.380" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentialsNoEmailNoPassword" time="1.331" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyThatUserShouldLogoutSuccessfully" time="12.993" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentialsNoPassword" time="1.744" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+      
+</testsuite>
